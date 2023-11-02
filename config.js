@@ -157,20 +157,20 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Magister',
+					link: 'https://vanmaerlantlyceum.magister.net/magister/#/agenda',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Learn',
+					link: 'https://vanmaerlantlyceum.itslearning.com/main.aspx?TextURL=CourseCards',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Onedrive',
+					link: 'https://omo365-my.sharepoint.com/personal/s0593011759_vmle_nl/_layouts/15/onedrive.aspx?view=1',
 				},
 				{
 					name: 'Slack',
