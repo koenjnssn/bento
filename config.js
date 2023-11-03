@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://omo365-my.sharepoint.com/personal/s0593011759_vmle_nl/_layouts/15/onedrive.aspx?view=1',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Dropbox',
+					link: 'https://app.box.com/s/8eqtji70wn7c4yvdcxhab8gp9pd116ir/folder/171500504306',
 				},
 			],
 		},
