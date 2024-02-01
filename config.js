@@ -157,16 +157,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'book',
+			icon: 'server',
 			id: '2',
 			links: [
 				{
-					name: 'Magister',
-					link: 'https://vanmaerlantlyceum.magister.net/magister/#/agenda',
+					name: 'Home Assistant',
+					link: 'http://192.168.1.120:8123',
 				},
 				{
-					name: 'Learn',
-					link: 'https://vanmaerlantlyceum.itslearning.com/main.aspx?TextURL=CourseCards',
+					name: 'Jellyfin',
+					link: 'http://192.168.1.87:8096',
 				},
 				{
 					name: 'Onedrive',
