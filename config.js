@@ -139,19 +139,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/?',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/results?search_query=classical+music+for',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Youtube',
+					link: 'https://music.youtube.com/',
 				},
 				{
-					name: 'Rock',
+					name: 'Rickroll',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
